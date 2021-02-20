@@ -1,0 +1,47 @@
+{
+    "Blogs": [
+        {
+            "BlogID": "1",
+            "Title": "IA",
+            "Image": "https:\/\/miro.medium.com\/max\/700\/1*7k77u72QwQecfuiFKXQNdQ.png",
+            "File": "https://aaiitt.medium.com/build-transformer-arabic-chat-bot-and-deploy-it-on-telegram-28865973ad06",
+            "Description": "The use of artificial neural networks to create chatbots is increasingly popular nowadays, however, teaching a computer to have natural conversations is very difficult and often requires large and complicated language models.",
+            "Date": "2021-02-15T07:38:57.955Z"
+        }
+    ],
+    "Projects": [
+        {
+            "ProjectID": "1",
+            "Title": "Telegram chat-bot",
+            "Image": "https://raw.githubusercontent.com/aaiit/telegram-arabic-chat-bot/master/aaiit_bot.png",
+            "Link": "https://github.com/aaiit/telegram-chat-bot",
+            "Description": "The use of artificial neural networks to create chatbots is increasingly popular nowadays, however, teaching a computer to have natural conversations is very difficult and often requires large and complicated language models.",
+            "TechStack": [
+                "Python",
+                "Telegram",
+                "Pandas"
+            ]
+         }
+        
+    ],
+    "Insights": [
+        {
+            "ID" : "1",
+            "Name": "Demis Hassabis  CEO DeepMind",
+            "Title": "Transfer Learning",
+            "Description": "I think transfer learning is the key to general intelligence. And I think the key to doing transfer learning will be the acquisition of conceptual knowledge that is abstracted away from perceptual details of where you learned it from."
+        },
+        {
+            "ID" : "2",
+            "Name": "Marvin Minksy",
+            "Title": "Continually Innovate",
+            "Description": "I noticed that most people do something wonderful and then they get stuck. I started to make theories on how people get stuck and how to avoid it. \nAnd the best way is: if you've done something. you should be ashamed of it, instead of proud of it."
+        },
+        {
+            "ID" : "3",
+            "Name": "Geoffrey Hinton",
+            "Title": "Future of AI",
+            "Description": "Assuming the computer industry can keep producing better hardware. I think 'business as usual' is going to take us a long way. Obviously, if we get big conceptual breakthroughts, it'll take us further. I think one of the big breakthroughts that's going to come is we're going to understand the brain. "
+        }
+    ]
+}
